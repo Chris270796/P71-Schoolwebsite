@@ -1,0 +1,26 @@
+                #video {
+                height: 500px;
+                width: 100%;
+                border: none;
+            }
+            
+            .travelmainDiv {
+                border: 1px solid lightgray;
+            }
+            
+            ,
+            .travelmainDiv img {
+                width: 100%;
+            }
+            
+            {
+                .travelmainDiv h5,
+                .travelmainDiv p {
+                    margin: 20px;
+                }
+                .new {
+                    margin-bottom: 20px;
+                }
+                #contact iframe {
+                    width: 100%;
+                }
